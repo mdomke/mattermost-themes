@@ -14,5 +14,5 @@ Based on the colors of the [Apprentice colorscheme](http://romainl.github.io/App
 
 
 ```json
-{"awayIndicator":"#af5f5f","buttonBg":"#5f8787","buttonColor":"#bcbcbc","centerChannelBg":"#262626","centerChannelColor":"#bcbcbc","codeTheme":"monokai","linkColor":"#5f87af","mentionBj":"#5f5f87","mentionColor":"#ffffff","mentionHighlightBg":"#ffffaf","mentionHighlightLink":"#8787af","newMessageSeparator":"#ffffaf","onlineIndicator":"#5f875f","sidebarBg":"#1c1c1c","sidebarHeaderBg":"#1c1c1c","sidebarHeaderTextColor":"#bcbcbc","sidebarText":"#bcbcbc","sidebarTextActiveBorder":"#5f8787","sidebarTextActiveColor":"#5f8787","sidebarTextHoverBg":"#444444","sidebarUnreadText":"#bcbcbc"}
+{"awayIndicator":"#af5f5f","buttonBg":"#5f8787","buttonColor":"#262626","centerChannelBg":"#262626","centerChannelColor":"#bcbcbc","codeTheme":"monokai","linkColor":"#5f87af","mentionBj":"#ffffaf","mentionColor":"#1c1c1c","mentionHighlightBg":"#ffffaf","mentionHighlightLink":"#262626","newMessageSeparator":"#8787af","onlineIndicator":"#5f875f","sidebarBg":"#1c1c1c","sidebarHeaderBg":"#444444","sidebarHeaderTextColor":"#bcbcbc","sidebarText":"#bcbcbc","sidebarTextActiveBorder":"#5f8787","sidebarTextActiveColor":"#5f8787","sidebarTextHoverBg":"#444444","sidebarUnreadText":"#bcbcbc"}
 ```
